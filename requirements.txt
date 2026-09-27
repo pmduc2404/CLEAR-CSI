@@ -1,0 +1,9 @@
+# CUDA is required (mamba_ssm Mamba-2 kernels). Versions used for the paper:
+torch==2.9.1
+mamba-ssm==2.3.2.post1
+causal-conv1d==1.5.3.post1
+numpy==2.2.6
+scipy==1.15.3
+tensorboardX==2.6.5
+# figures only
+matplotlib==3.10.8

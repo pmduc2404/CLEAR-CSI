@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+# data, checkpoints, results
+COST2100/
+*.mat
+*.pth
+*.pt
+runs/
+clear_results*/
+smoke_clear*/
+experiment_results/
+figures/
+logs/
+# cloned literature code (see baselines/setup_baselines.sh)
+baselines/repos/
